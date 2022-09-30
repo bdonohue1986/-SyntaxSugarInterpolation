@@ -1,0 +1,14 @@
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\bin\Debug\netcoreapp3.1\SyntaxSugarInterpolation.exe
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\bin\Debug\netcoreapp3.1\SyntaxSugarInterpolation.deps.json
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\bin\Debug\netcoreapp3.1\SyntaxSugarInterpolation.runtimeconfig.json
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\bin\Debug\netcoreapp3.1\SyntaxSugarInterpolation.runtimeconfig.dev.json
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\bin\Debug\netcoreapp3.1\SyntaxSugarInterpolation.dll
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\bin\Debug\netcoreapp3.1\SyntaxSugarInterpolation.pdb
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\obj\Debug\netcoreapp3.1\SyntaxSugarInterpolation.csproj.AssemblyReference.cache
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\obj\Debug\netcoreapp3.1\SyntaxSugarInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\obj\Debug\netcoreapp3.1\SyntaxSugarInterpolation.AssemblyInfoInputs.cache
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\obj\Debug\netcoreapp3.1\SyntaxSugarInterpolation.AssemblyInfo.cs
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\obj\Debug\netcoreapp3.1\SyntaxSugarInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\obj\Debug\netcoreapp3.1\SyntaxSugarInterpolation.dll
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\obj\Debug\netcoreapp3.1\SyntaxSugarInterpolation.pdb
+C:\Users\Daddy Donohue\Desktop\repos\repos\SyntaxSugarInterpolation\SyntaxSugarInterpolation\obj\Debug\netcoreapp3.1\SyntaxSugarInterpolation.genruntimeconfig.cache
